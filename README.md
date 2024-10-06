@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello! I'm Prabodh KC
 
-<!--
-**prabodhkc/prabodhkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **aspiring software engineer** passionate about problem-solving and creating impactful software. I'm currently working on a variety of projects, and always looking to expand my knowledge and skills in the tech world.
 
-Here are some ideas to get you started:
+### 🚀 Projects I'm working on:
+- **Project Name**: Community Center Web Page.
+- **Another Project**: Password Generator.
+- **More to come...** 🚧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages and Tools:
+- **Languages**: Python, Java, JavaScript, C++, Kotlin,HTML
+- **Frameworks**: React, Node.js, Express
+- **Databases**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
+
+### 🌱 Currently Learning:
+- **Cloud Technologies**: AWS, Azure
+- **DevOps Practices**: CI/CD, Docker
+- **Algorithms and Data Structures**
+
+### 📫 How to reach me:
+- **LinkedIn**: [Prabodh KC](https://www.linkedin.com/in/prabodh-kc-517a35256/)
+- **Email**: prabodhkcc@gmail.com 
+
+---
+
+I'm always open to new opportunities, collaboration, and feedback. Let's connect and build something amazing!
