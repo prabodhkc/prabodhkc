@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prabodh KC!  
 
-I’m a passionate **Computer Science junior** eager to explore the vast world of technology and innovation. My journey is driven by curiosity, creativity, and a constant desire to grow as a problem solver.
+I’m a passionate **Computer Science Student** eager to explore the vast world of technology and innovation. My journey is driven by curiosity, creativity, and a constant desire to grow as a problem solver.
 
 ---
 
